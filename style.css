@@ -1,0 +1,14 @@
+#img{
+    text-align: center;
+    border-bottom: 5px solid black;
+    
+}
+img{
+    border-radius: 50%;
+}
+.header{
+    word-spacing: 80px;
+}
+h1{
+    background-color: aqua;
+}
